@@ -73,16 +73,6 @@
             <!-- End Top Search -->
 
             <div class="container-full">
-
-                <!-- Start Atribute Navigation -->
-                <div class="attr-nav">
-                    <ul>
-                        <li class="search"><a href="#"><i class="ti-search"></i></a></li>
-                        <li class="side-menu"><a href="#"><i class="ti-menu-alt"></i></a></li>
-                    </ul>
-                </div>
-                <!-- End Atribute Navigation -->
-
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
@@ -117,59 +107,6 @@
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div>
-
-            <!-- Start Side Menu -->
-            <div class="side">
-                <a href="#" class="close-side"><i class="ti-close"></i></a>
-                <div class="widget">
-                    <h4 class="title">Contact Info</h4>
-                    <ul class="contact">
-                        <li>
-                            <div class="icon">
-                                <i class="flaticon-email"></i>
-                            </div>
-                            <div class="info">
-                                <span>Email</span> Info@gmail.com
-                            </div>
-                        </li>
-                        <li>
-                            <div class="icon">
-                                <i class="flaticon-call-1"></i>
-                            </div>
-                            <div class="info">
-                                <span>Phone</span> +123 456 7890
-                            </div>
-                        </li>
-                        <li>
-                            <div class="icon">
-                                <i class="flaticon-countdown"></i>
-                            </div>
-                            <div class="info">
-                                <span>Office Hours</span> Sat - Wed : 8:00 - 4:00
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="widget">
-                    <h4 class="title">Additional Links</h4>
-                    <ul>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Projects</a></li>
-                        <li><a href="#">Login</a></li>
-                        <li><a href="#">Register</a></li>
-                    </ul>
-                </div>
-                <div class="widget social">
-                    <h4 class="title">Connect With Us</h4>
-                    <ul class="link">
-                        <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li class="pinterest"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                        <li class="dribbble"><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-            <!-- End Side Menu -->
 
         </nav>
         <!-- End Navigation -->
@@ -208,6 +145,207 @@
         </div>
     </div>
     <!-- End Banner -->
+
+    <!-- Star About Area
+    ============================================= -->
+    <div class="pt-5 about-area shape-left relative">
+        <div class="container">
+            <div class="items-box">
+                <div class="row">
+                    <div class="col-lg-5 thumb wow fadeInDown">
+                        <img src="<?= base_url('assets/img/home/jovenLaptop.png') ?>" alt="Thumb">
+                    </div>
+                    <div class="col-lg-7 info wow fadeInRight" data-wow-duration="1.3s">
+                        <div class="about-tabs">
+                            <ul id="tabs" class="nav nav-tabs">
+                                <li class="nav-item">
+                                    <a href="" data-target="#tab1" data-toggle="tab" class="active nav-link">¿Quiénes
+                                        somos?</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="" data-target="#tab2" data-toggle="tab" class="nav-link">¿Qué hacemos?</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="" data-target="#tab3" data-toggle="tab" class="nav-link">¿Cómo lo
+                                        hacemos?</a>
+                                </li>
+                            </ul>
+                            <div id="tabsContent" class="tab-content wow fadeInUp" data-wow-delay="0.5s">
+                                <div id="tab1" class="tab-pane fade active show">
+                                    <ul>
+                                        <li>
+                                            <p class="text-justify">
+                                                <span class="font-Novbold" style="color: #25C7D9;">Emtech Institute,
+                                                    partner oficial de
+                                                    Salesforce, en alianza con
+                                                    Experis,</span> estamos comprometidos en brindarte la oportunidad de
+                                                desarrollar tu carrera profesional a través del potencial de las
+                                                herramientas de Salesforce, el ecosistema digital más importante y
+                                                con mayor crecimiento laboral a nivel mundial.
+                                            </p>
+                                        </li>
+                                        <li>
+                                            <p class="text-justify">
+                                                <span>Este programa busca formarte profesionalmente en los career path
+                                                    de Salesforce con <span class="font-Novbold"
+                                                        style="color: #25C7D9;">mayor demanda laboral en el mercado y de
+                                                        los
+                                                        mejores pagados</span> en todo el planeta.
+                                                </span>
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div id="tab2" class="tab-pane fade">
+                                    <ul>
+                                        <li>
+                                            <p class="text-justify">
+                                                Hemos desarrollados 3 cursos en los que podrás<br>
+                                                especializarte en algunos de los roles <span class="font-Novbold"
+                                                    style="color: #25C7D9;">más importantes<br>
+                                                    del ecosistema Salesforce:</span>
+
+                                            </p>
+                                            <ul class="pl-5 ulSalesforce">
+                                                <li>
+                                                    <h6 class="font-Novbold" style="color: rgba(0, 0, 0, 0.8);">
+                                                        Salesforce Admin</h6>
+                                                </li>
+                                                <li>
+                                                    <h6 class="font-Novbold" style="color: rgba(0, 0, 0, 0.8);">
+                                                        Salesforce Analyst</h6>
+                                                </li>
+                                                <li>
+                                                    <h6 class="font-Novbold" style="color: rgba(0, 0, 0, 0.8);">
+                                                        Salesforce Developer</h6>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p class="text-justify">
+                                                Con los que podrás tener una experiencia significativa<br>
+                                                en tu crecimiento profesional y puedas dar ese salto <span
+                                                    class="font-Novbold" style="color: #25C7D9;">en<br>
+                                                    las nubes de Salesforce;</span> el curso de tu<br>
+                                                elección, con una certificación oficial de Salesforce que<br>
+                                                te abrirá las puertas en todo el mundo.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div id="tab3" class="tab-pane fade">
+                                    <ul>
+                                        <li>
+                                            <p class="text-justify">
+                                                Te ofrecemos cada uno de los cursos que <span class="font-Novbold"
+                                                    style="color: #25C7D9;">EmTech ha<br>
+                                                    desarrollado</span> para tu carrera profesional en Salesforce.
+                                            </p>
+                                        </li>
+                                        <li>
+                                            <p class="text-justify">
+                                                Posterior a haber culminado tu especialidad, <span class="font-Novbold"
+                                                    style="color: #25C7D9;">Experis<br>
+                                                    canalizará tu perfil con diversas empresas para poder<br>
+                                                    garantizarte alguno de los empleos,</span> durante los<br>
+                                                primeros 3 meses de haber terminado el curso con éxito.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="pt-3 row">
+                                <div class="col-lg-4 col-md-4 single-item">
+                                    <img src="<?= base_url('assets/img/home/emtech-logo.png') ?>" alt="Logo">
+                                </div>
+                                <div class="col-lg-4 col-md-4 single-item">
+                                    <img src="<?= base_url('assets/img/home/experis-logo.png') ?>" alt="Logo">
+                                </div>
+                                <div class="col-lg-4 col-md-4 single-item">
+                                    <img src="<?= base_url('assets/img/home/logo-salesforce.png') ?>" alt="Logo">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End About Area -->
+
+    <!-- Start Fun Factor Area
+    ============================================= -->
+    <div class="fun-factor-area bg-gray default-padding">
+        <!-- Fixed BG -->
+        <div class="fixed-bg" style="background-image: url(<?= base_url('assets/img/home/bannerNumeros.png') ?>);">
+        </div>
+        <!-- Fixed BG -->
+        <div class="container">
+            <div class="text-center client-items" style="padding-left: 5rem;">
+                <div class="row">
+                    <h2 class="text-center font-Novbold" style="color:#ffff;position: relative">¿Por qué desarrollarte
+                        profesionalmente en el
+                        mundo de
+                        <span style="color: #25C7D9;">Salesforce?</span>
+                    </h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 item">
+                        <ul>
+                            <li style="float: left;width: 15%;">
+                                <img class="pt-4 mx-auto" src="<?= base_url('assets/img/home/iconoCalendario.png') ?>"
+                                    alt="">
+                            </li>
+                            <li style="float: right;width: 80%;text-align: left;">
+                                <div class="fun-fact">
+                                    <!-- <div class="timer" data-to="9" data-speed="5000">9+<span>m</span></div> -->
+                                    <span class="medium font-Novreg">se crearán</span>
+                                    <div id="counter" class="counter"><span class="font-Novbold">9.3 millones</span>
+                                    </div>
+
+                                    <span class="medium">de empleos para 2026</span>
+                                </div>
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <ul>
+                            <li style="float: left;width: 15%;">
+                                <img class="pt-4 mx-auto" src="<?= base_url('assets/img/home/iconoMaletin.png') ?>"
+                                    alt="">
+                            </li>
+                            <li style="float: right;width: 80%;text-align: left;">
+                                <div class="fun-fact">
+                                    <!-- <div class="timer" data-to="9" data-speed="5000">9+<span>m</span></div> -->
+                                    <span class="medium">En México habrá más de </span>
+                                    <div id="counter2" class="counter"><span class="font-Novbold">500,000</span></div>
+                                    <span class="medium">nuevos puesto de trabajo</span>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4 col-md-6 item">
+                        <ul>
+                            <li style="float: left;width: 15%;">
+                                <img class="pt-4 mx-auto" src="<?= base_url('assets/img/home/iconoCalendario.png') ?>"
+                                    alt="">
+                            </li>
+                            <li style="float: right;width: 80%;text-align: left;">
+                                <div class="fun-fact">
+                                    <!-- <div class="timer" data-to="9" data-speed="5000">9+<span>m</span></div> -->
+                                    <span class="medium">Sueldos de hasta </span>
+                                    <div id="counter3" class="counter"><span class="font-Novbold">$60,000</span></div>
+                                    <span class="medium">pesos al mes</span>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Fun Factor Area -->
 
     <!-- Start Our Features
     ============================================= -->
@@ -1270,7 +1408,36 @@
     <script src="<?= base_url('assets/js/circle-progress.js') ?>"></script>
     <script src="<?= base_url('assets/js/bootsnav.js') ?>"></script>
     <script src="<?= base_url('assets/js/main.js') ?>"></script>
+    <script src="https://unpkg.com/counterup2@2.0.2/dist/index.js"></script>
+    <script>
+    const counterUp = window.counterUp.default
 
+    const callback = entries => {
+        entries.forEach(entry => {
+            const el = entry.target
+            if (entry.isIntersecting && !el.classList.contains('is-visible')) {
+                counterUp(el, {
+                    duration: 2000,
+                    delay: 16,
+                })
+                el.classList.add('is-visible')
+            }
+        })
+    }
+
+    const IO = new IntersectionObserver(callback, {
+        threshold: 1
+    })
+
+    const el = document.querySelector('#counter')
+    IO.observe(el)
+
+    const el2 = document.querySelector('#counter2')
+    IO.observe(el2)
+
+    const el3 = document.querySelector('#counter3')
+    IO.observe(el3)
+    </script>
 </body>
 
 </html>
