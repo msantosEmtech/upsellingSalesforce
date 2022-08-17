@@ -116,15 +116,15 @@
 
     <!-- Start Banner 
     ============================================= -->
-    <div class="banner-area text-combo gradient-bg  bg-bottom-center top-pad-90 text-light"
-        style="background-image: url(assets/img/shape/6.png);">
+    <div class="banner-area text-combo gradient-bg  bg-bottom-center text-light"
+        style="background-image: url(<?= base_url('assets/img/home/bannerHome2.png') ?>);padding-top: 0px;height: 60rem;">
         <div class="item">
-            <div class="box-table">
+            <div class="box-table" style="height: 45rem;">
                 <div class="box-cell">
                     <div class="container">
                         <div class="row">
                             <div class="double-items">
-                                <div class="col-lg-6 info">
+                                <div class="col-lg-12 info">
                                     <h2 class="wow fadeInDown" data-wow-duration="1s">
                                         ¡Bienvenido <br>
                                         <div style="color: #25C7D9;">a Salesforce!</div>
@@ -134,11 +134,8 @@
                                         tu carrera profesional y obtener el<br>
                                         <span class="font-NovBold">trabajo de tus sueños.</span>
                                     </h3>
-                                    <a class="btn circle btn-md btn-light shape wow fadeInUp" data-wow-duration="1.8s"
-                                        href="#">Get Started</a>
-                                </div>
-                                <div class="col-lg-6 thumb wow fadeInRight" data-wow-duration="1s">
-                                    <img src="assets/img/illustration/20.png" alt="Thumb">
+                                    <a class="btn circle btn-sm btn-naranja shape wow fadeInUp" data-wow-duration="1.8s"
+                                        href="#">Ver cursos</a>
                                 </div>
                             </div>
                         </div>

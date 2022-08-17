@@ -227,7 +227,7 @@ b, strong {
 .btn.circle {
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
-  border-radius: 30px;
+  border-radius: 16px;
 }
 
 .btn.active, .btn:active {
@@ -7127,4 +7127,36 @@ body.dark-layout .works-process-items .item .icon i {
   -webkit-text-fill-color: transparent;
   background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
   -webkit-background-clip: text;
+}
+
+.btn.btn-naranja {
+  background: #F27C21 none repeat scroll 0 0;
+  border: 2px solid #F27C21;
+  color: #FAFAFA;
+}
+
+.btn.btn-naranja:hover, 
+ .btn.btn-naranja:focus {
+  background: transparent none repeat scroll 0 0;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+}
+
+.btn.btn-naranja.effect:hover, 
+ .btn.btn-naranja.effect:focus {
+  background-color: #437eeb;
+  color: #ffffff !important;
+  border: 2px solid #437eeb;
+}
+
+.btn.btn-naranja.border {
+  background: transparent;
+  border: 2px solid #ffffff !important;
+  color: #ffffff;
+}
+
+.btn.btn-naranja.border:hover {
+  background: #ffffff none repeat scroll 0 0 !important;
+  border: 2px solid #ffffff !important;
+  color: #232323 !important;
 }
