@@ -7161,3 +7161,22 @@ body.dark-layout .works-process-items .item .icon i {
   border: 2px solid #ffffff !important;
   color: #232323 !important;
 }
+
+.bg-blue-light{
+  background-color: #F7F8FA;
+}
+
+.detalles-card{
+  -webkit-transition: -webkit-transform .2s ease-out;
+  transition: -webkit-transform .2s ease-out;
+  transition: transform .2s ease-out;
+  transition: transform .2s ease-out,-webkit-transform .2s ease-out;                
+}
+
+.detalles-card:hover {
+  transform: translatey(-16px);
+}
+
+.works-process-items .item-custom {
+  padding: 0 0px;
+}

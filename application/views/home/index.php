@@ -148,7 +148,7 @@
 
     <!-- Star About Area
     ============================================= -->
-    <div class="pt-5 about-area shape-left relative">
+    <div class="pt-5 about-area shape-left bg-blue-light relative">
         <div class="container">
             <div class="items-box">
                 <div class="row">
@@ -349,69 +349,112 @@
 
     <!-- Start Work Process Area
     ============================================= -->
-    <div class="work-process-area bg-gray default-padding">
+    <div class="work-process-area default-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h4>Work Process</h4>
-                        <h2>
-                            How We Work
-                        </h2>
+                        <h3 class="font-Novbold" style="color: #00215B;">
+                            Salesforce es más que el <span style="color:#25C7D9;">CRM #1 en el mundo</span>
+                        </h3>
                     </div>
                 </div>
             </div>
             <div class="works-process-items text-center">
                 <div class="row">
                     <!-- Single Item -->
-                    <div class="col-lg-4 single-item">
-                        <div class="item">
-                            <div class="icon">
-                                <i class="flaticon-problem"></i>
-                                <span>01</span>
-                            </div>
-                            <div class="info">
-                                <h4>Frame the Problem</h4>
-                                <p>
-                                    Evening do forming observe spirits is in. Country hearted be of justice sending. On
-                                    so they as with room cold
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-
-                    <!-- Single Item -->
-                    <div class="col-lg-4 single-item">
-                        <div class="item">
-                            <div class="icon">
-                                <i class="flaticon-data-collection"></i>
-                                <span>02</span>
-                            </div>
-                            <div class="info">
-                                <h4>Collect Data</h4>
-                                <p>
-                                    Evening do forming observe spirits is in. Country hearted be of justice sending. On
-                                    so they as with room cold
-                                </p>
+                    <div class="col-lg-3 single-item">
+                        <div class="item-custom">
+                            <div class="card detalles-card"
+                                style="border-radius: 10px;border: none;box-shadow: 0px 25px 30px rgba(126, 126, 126, 0.15);">
+                                <div class="card-body" style="padding: 0px;padding-bottom: 1rem;">
+                                    <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1"
+                                        style="cursor: pointer;width: 90px;"
+                                        src="<?= base_url('assets/img/home/iconoTarjeta.svg') ?>" alt="Icono"
+                                        width="100" />
+                                    <div class="info">
+                                        <h5 class="font-Novbold" style="color: #00215B;">¡Salesforce es para todos!</h5>
+                                        <p style="line-height: 24px;">
+                                            No importa lo que hayas<br>
+                                            estudiado o a lo que te<br>
+                                            dediques, Salesforce tiene un<br> lugar para ti.
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <!-- End Single Item -->
 
                     <!-- Single Item -->
-                    <div class="col-lg-4 single-item">
-                        <div class="item">
-                            <div class="icon">
-                                <i class="flaticon-cloud-data"></i>
-                                <span>03</span>
+                    <div class="col-lg-3 single-item">
+                        <div class="item-custom">
+                            <div class="card detalles-card"
+                                style="border-radius: 10px;border: none;box-shadow: 0px 25px 30px rgba(126, 126, 126, 0.15);">
+                                <div class="card-body" style="padding: 0px;padding-bottom: 1.3rem;">
+                                    <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1"
+                                        style="cursor: pointer;width: 90px;"
+                                        src="<?= base_url('assets/img/home/iconoTarjeta2.svg') ?>" alt="Icono"
+                                        width="100" />
+                                    <div class="info">
+                                        <h5 class="font-Novbold" style="color: #00215B;">Nubes de Salesforce</h5>
+                                        <p style="line-height: 24px;">
+                                            Brindan una innovación<br>
+                                            tecnológica en todos los<br>
+                                            departamentos de una<br> compañía.
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="info">
-                                <h4>Process Data</h4>
-                                <p>
-                                    Evening do forming observe spirits is in. Country hearted be of justice sending. On
-                                    so they as with room cold
-                                </p>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+
+                    <!-- Single Item -->
+                    <div class="col-lg-3 single-item">
+                        <div class="item-custom">
+                            <div class="card detalles-card"
+                                style="border-radius: 10px;border: none;box-shadow: 0px 25px 30px rgba(126, 126, 126, 0.15);">
+                                <div class="card-body" style="padding: 0px;padding-bottom: 3rem;">
+                                    <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1"
+                                        style="cursor: pointer;width: 90px;"
+                                        src="<?= base_url('assets/img/home/iconoTarjeta3.svg') ?>" alt="Icono"
+                                        width="100" />
+                                    <div class="info">
+                                        <h5 class="font-Novbold" style="color: #00215B;">Accesibilidad ilimitada</h5>
+                                        <p style="line-height: 24px;">
+                                            Tendrás la oportunidad de<br>
+                                            trabajar desde cualquier parte<br>
+                                            del mundo.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+
+                    <!-- Single Item -->
+                    <div class="col-lg-3 single-item">
+                        <div class="item-custom">
+                            <div class="card detalles-card"
+                                style="border-radius: 10px;border: none;box-shadow: 0px 25px 30px rgba(126, 126, 126, 0.15);">
+                                <div class="card-body" style="padding: 0px;">
+                                    <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1"
+                                        style="cursor: pointer;width: 90px;"
+                                        src="<?= base_url('assets/img/home/iconoTarjeta4.svg') ?>" alt="Icono"
+                                        width="100" />
+                                    <div class="info">
+                                        <h5 class="font-Novbold" style="color: #00215B;">Salesforce se encuentra en
+                                            todas las industrias</h5>
+                                        <p style="line-height: 24px;">
+                                            Desde la compañía más pequeña,<br>
+                                            hasta la más grande. La flexibilidad<br>
+                                            de sus herramientas permiten<br>
+                                            situarse en cualquier industria.
+                                        </p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
