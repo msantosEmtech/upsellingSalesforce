@@ -125,12 +125,15 @@
                         <div class="row">
                             <div class="double-items">
                                 <div class="col-lg-6 info">
-                                    <h2 class="wow fadeInDown" data-wow-duration="1s"><span>Applying Data Science</span>
-                                        And Techniques with Systems</h2>
-                                    <p class="wow fadeInLeft" data-wow-duration="1.5s">
-                                        Contented continued any happiness instantly objection yet her allowance. Use
-                                        correct day new brought tedious. Kept easy or sons my it done.
-                                    </p>
+                                    <h2 class="wow fadeInDown" data-wow-duration="1s">
+                                        ¡Bienvenido <br>
+                                        <div style="color: #25C7D9;">a Salesforce!</div>
+                                    </h2>
+                                    <h3 class="wow fadeInLeft" data-wow-duration="1.5s">
+                                        Esta es la oportunidad de transformar<br>
+                                        tu carrera profesional y obtener el<br>
+                                        <span class="font-NovBold">trabajo de tus sueños.</span>
+                                    </h3>
                                     <a class="btn circle btn-md btn-light shape wow fadeInUp" data-wow-duration="1.8s"
                                         href="#">Get Started</a>
                                 </div>
