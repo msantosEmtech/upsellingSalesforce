@@ -347,6 +347,81 @@
     </div>
     <!-- End Fun Factor Area -->
 
+    <!-- Start Work Process Area
+    ============================================= -->
+    <div class="work-process-area bg-gray default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2">
+                    <div class="site-heading text-center">
+                        <h4>Work Process</h4>
+                        <h2>
+                            How We Work
+                        </h2>
+                    </div>
+                </div>
+            </div>
+            <div class="works-process-items text-center">
+                <div class="row">
+                    <!-- Single Item -->
+                    <div class="col-lg-4 single-item">
+                        <div class="item">
+                            <div class="icon">
+                                <i class="flaticon-problem"></i>
+                                <span>01</span>
+                            </div>
+                            <div class="info">
+                                <h4>Frame the Problem</h4>
+                                <p>
+                                    Evening do forming observe spirits is in. Country hearted be of justice sending. On
+                                    so they as with room cold
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+
+                    <!-- Single Item -->
+                    <div class="col-lg-4 single-item">
+                        <div class="item">
+                            <div class="icon">
+                                <i class="flaticon-data-collection"></i>
+                                <span>02</span>
+                            </div>
+                            <div class="info">
+                                <h4>Collect Data</h4>
+                                <p>
+                                    Evening do forming observe spirits is in. Country hearted be of justice sending. On
+                                    so they as with room cold
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+
+                    <!-- Single Item -->
+                    <div class="col-lg-4 single-item">
+                        <div class="item">
+                            <div class="icon">
+                                <i class="flaticon-cloud-data"></i>
+                                <span>03</span>
+                            </div>
+                            <div class="info">
+                                <h4>Process Data</h4>
+                                <p>
+                                    Evening do forming observe spirits is in. Country hearted be of justice sending. On
+                                    so they as with room cold
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Work Process Area -->
+
     <!-- Start Our Features
     ============================================= -->
     <div class="our-features-area choseus-area wavesshape-bottom carousel-shadow default-padding">
