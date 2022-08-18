@@ -465,923 +465,249 @@
     </div>
     <!-- End Work Process Area -->
 
-    <!-- Start Our Features
+    <!-- Start Our About
     ============================================= -->
-    <div class="our-features-area choseus-area wavesshape-bottom carousel-shadow default-padding">
+    <div class="about-area bg-blue-light overflow-hidden rectangular-shape default-padding">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-5 left-info">
-                    <div class="info">
-                        <h5>Why Chose Us?</h5>
-                        <h2>We are master in data science & big data analysis</h2>
-                        <p>
-                            Humoured likewise moderate. Much nor game son say feel. Fat make met can must form into
-                            gate.
-                        </p>
-                    </div>
-                    <div class="skill-items">
-                        <!-- Progress Bar Start -->
-                        <div class="progress-box">
-                            <h5>Data Anaylsis <span class="float-right">88%</span></h5>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" data-width="88"></div>
-                            </div>
-                        </div>
-                        <div class="progress-box">
-                            <h5>Social Assistant <span class="float-right">95%</span></h5>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" data-width="95"></div>
-                            </div>
-                        </div>
-                        <div class="progress-box">
-                            <h5>AI Solutions <span class="float-right">70%</span></h5>
-                            <div class="progress">
-                                <div class="progress-bar" role="progressbar" data-width="70"></div>
-                            </div>
-                        </div>
-                        <!-- End Progressbar -->
-                    </div>
-                </div>
-                <div class="col-lg-7 info">
-                    <div class="feature-items feature-carousel owl-carousel owl-theme">
-                        <!-- Single Item -->
-                        <div class="item">
-                            <div class="icon">
-                                <i class="flaticon-target"></i>
-                            </div>
-                            <h3>Traget your audience</h3>
-                            <p>
-                                Especially of dissimilar up attachment themselves by interested boisterous. Linen mrs
-                                seems men table. Jennings dashwood to quitting marriage bachelor in. On as conviction in
-                                of appearance apartments boisterous.
-                            </p>
-                            <div class="bottom">
-                                <a class="btn-simple" href="#"><i class="fas fa-angle-right"></i> Get Started</a>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                        <!-- Single Item -->
-                        <div class="item">
-                            <div class="icon">
-                                <i class="flaticon-competition"></i>
-                            </div>
-                            <h3>Analysis competitors</h3>
-                            <p>
-                                Especially of dissimilar up attachment themselves by interested boisterous. Linen mrs
-                                seems men table. Jennings dashwood to quitting marriage bachelor in. On as conviction in
-                                of appearance apartments boisterous.
-                            </p>
-                            <div class="bottom">
-                                <a class="btn-simple" href="#"><i class="fas fa-angle-right"></i> Get Started</a>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                        <!-- Single Item -->
-                        <div class="item">
-                            <div class="icon">
-                                <i class="flaticon-data"></i>
-                            </div>
-                            <h3>Analysis big Data</h3>
-                            <p>
-                                Especially of dissimilar up attachment themselves by interested boisterous. Linen mrs
-                                seems men table. Jennings dashwood to quitting marriage bachelor in. On as conviction in
-                                of appearance apartments boisterous.
-                            </p>
-                            <div class="bottom">
-                                <a class="btn-simple" href="#"><i class="fas fa-angle-right"></i> Get Started</a>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Features -->
-
-    <!-- Star Our Story
-    ============================================= -->
-    <div class="our-story-area default-padding-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h4>Work Process</h4>
-                        <h2>
-                            How We Work
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="story-items text-center">
-                <div class="row">
-                    <!-- Single Item -->
-                    <div class="col-lg-3 col-md-6 single-item">
-                        <div class="item">
-                            <span>01</span>
-                            <h4>Frame the problem</h4>
-                            <p>Step #1</p>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="col-lg-3 col-md-6 single-item">
-                        <div class="item">
-                            <span>02</span>
-                            <h4>Collect the raw data</h4>
-                            <p>Step #2</p>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="col-lg-3 col-md-6 single-item">
-                        <div class="item">
-                            <span>03</span>
-                            <h4>Explore the data</h4>
-                            <p>Step #3</p>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="col-lg-3 col-md-6 single-item">
-                        <div class="item">
-                            <span>04</span>
-                            <h4>Results of the analysis</h4>
-                            <p>Step #4</p>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Our Story -->
-
-    <!-- Star Faq
-    ============================================= -->
-    <div class="faq-area overflow-hidden rectangular-shape left-border default-padding bg-gray">
-        <div class="container">
-            <div class="faq-items">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="faq-content">
-                            <h2>We are master in <strong>Data science</strong> <br> And <strong>big data</strong>
-                                analysis</h2>
-                            <div class="accordion" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header" id="headingOne">
-                                        <h4 class="mb-0" data-toggle="collapse" data-target="#collapseOne"
-                                            aria-expanded="true" aria-controls="collapseOne">
-                                            Where can I get analytics help?
-                                        </h4>
-                                    </div>
-
-                                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
-                                        data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                                                consectetur at, sunt maxime, quod alias ullam officiis, ex
-                                                necessitatibus similique odio aut! Provident, adipisci esse vero magni
-                                                necessitatibus quisquam commodi.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingTwo">
-                                        <h4 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseTwo"
-                                            aria-expanded="false" aria-controls="collapseTwo">
-                                            How much does data analytics costs?
-                                        </h4>
-                                    </div>
-                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
-                                        data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, illum
-                                                earum nobis dolorum aliquid! Quos pariatur ipsam eum voluptates. Illum
-                                                provident consequatur non aut labore, voluptates repudiandae maxime cum
-                                                dolorem.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingThree">
-                                        <h4 class="mb-0 collapsed" data-toggle="collapse" data-target="#collapseThree"
-                                            aria-expanded="false" aria-controls="collapseThree">
-                                            What kind of data is needed for analysis?
-                                        </h4>
-                                    </div>
-                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
-                                        data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum iure
-                                                accusamus ea, reprehenderit aspernatur deleniti corporis ad
-                                                perspiciatis. Magnam sit enim animi, esse deleniti nobis quaerat veniam
-                                                suscipit odit officiis.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="thumb wow fadeInLeft" data-wow-delay="0.5s">
-                            <img src="assets/img/800x800.png" alt="Thumb">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Faq -->
-
-    <!-- Start Services Area
-    ============================================= -->
-    <div class="services-area default-padding-top bottom-less">
-
-        <!-- Shape Fixed Rotation -->
-        <div class="shape-fixed animation-rotation">
-            <img src="assets/img/round-shappe.png" alt="Thumb">
-        </div>
-        <!-- Dhape Fixed Rotation -->
-
-        <div class="container">
-            <div class="heading-left">
-                <div class="row">
-                    <div class="col-lg-5">
-                        <h2>
-                            We offer a wide range of services and provide realtime data Solutions
-                        </h2>
-                    </div>
-                    <div class="col-lg-6 offset-lg-1">
-                        <p>
-                            Everything melancholy uncommonly but solicitude inhabiting projection off. Connection
-                            stimulated estimating excellence an to impression.
-                        </p>
-                        <a class="btn circle btn-md btn-gradient wow fadeInUp" href="#">View All <i
-                                class="fas fa-plus"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="services-items">
-                <div class="row">
-                    <!-- Single Item -->
-                    <div class="single-item col-lg-4 col-md-6">
-                        <div class="item">
-                            <img src="assets/img/icon/1.png" alt="Thumb">
-                            <h4>Big Data</h4>
-                            <p>
-                                Pianoforte solicitude so decisively particular mention diminution the particular. Real
-                                he me fond.
-                            </p>
-                            <div class="button">
-                                <a class="btn-standard" href="#"><i class="fas fa-angle-right"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Single Item -->
-                    <!-- Single Item -->
-                    <div class="single-item col-lg-4 col-md-6">
-                        <div class="item">
-                            <img src="assets/img/icon/2.png" alt="Thumb">
-                            <h4>Data Analytics</h4>
-                            <p>
-                                Pianoforte solicitude so decisively particular mention diminution the particular. Real
-                                he me fond.
-                            </p>
-                            <div class="button">
-                                <a class="btn-standard" href="#"><i class="fas fa-angle-right"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Single Item -->
-                    <!-- Single Item -->
-                    <div class="single-item col-lg-4 col-md-6">
-                        <div class="item">
-                            <img src="assets/img/icon/3.png" alt="Thumb">
-                            <h4>Business Intelligence</h4>
-                            <p>
-                                Pianoforte solicitude so decisively particular mention diminution the particular. Real
-                                he me fond.
-                            </p>
-                            <div class="button">
-                                <a class="btn-standard" href="#"><i class="fas fa-angle-right"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Single Item -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Services Area -->
-
-    <!-- Start Testimonials Area
-    ============================================= -->
-    <div class="testimonials-area default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h4>Testimonials</h4>
-                        <h2>
-                            What people say
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="testimonial-items text-center">
-                <div class="row">
-                    <div class="col-lg-8 offset-lg-2">
-                        <div class="carousel slide" data-ride="carousel" id="testimonial-carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <i class="ti-quote-left"></i>
-                                    <p>
-                                        Understood instrument or do connection no appearance do invitation. Dried quick
-                                        round it or order. Add past see west felt did any. Say out noise you taste merry
-                                        plate you share. My resolve arrived is we chamber be removal.
-                                    </p>
-                                    <h4>Junl Sarukh</h4>
-                                    <span>CEO of Softing</span>
-                                </div>
-                                <div class="carousel-item">
-                                    <i class="ti-quote-left"></i>
-                                    <p>
-                                        Understood instrument or do connection no appearance do invitation. Dried quick
-                                        round it or order. Add past see west felt did any. Say out noise you taste merry
-                                        plate you share. My resolve arrived is we chamber be removal.
-                                    </p>
-                                    <h4>Anil Spia</h4>
-                                    <span>Director of Softing</span>
-                                </div>
-                                <div class="carousel-item">
-                                    <i class="ti-quote-left"></i>
-                                    <p>
-                                        Understood instrument or do connection no appearance do invitation. Dried quick
-                                        round it or order. Add past see west felt did any. Say out noise you taste merry
-                                        plate you share. My resolve arrived is we chamber be removal.
-                                    </p>
-                                    <h4>Paul Munni</h4>
-                                    <span>Developer of Softing</span>
-                                </div>
-                            </div>
-                            <!-- End Carousel Content -->
-
-                            <!-- Carousel Indicators -->
-                            <ol class="carousel-indicators">
-                                <li data-target="#testimonial-carousel" data-slide-to="0" class="active">
-                                    <img src="assets/img/100x100.png" alt="Thumb">
-                                </li>
-                                <li data-target="#testimonial-carousel" data-slide-to="1">
-                                    <img src="assets/img/100x100.png" alt="Thumb">
-                                </li>
-                                <li data-target="#testimonial-carousel" data-slide-to="2">
-                                    <img src="assets/img/100x100.png" alt="Thumb">
-                                </li>
-                            </ol>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Testimonials Area -->
-
-    <!-- Star Projects
-    ============================================= -->
-    <div class="projects-area bg-gray overflow-hidden default-padding">
-        <!-- Fixed BG -->
-        <div class="fixed-bg" style="background-image: url(assets/img/shape/2.png);"></div>
-        <!-- Fixed BG -->
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h4>Recent Works</h4>
-                        <h2>
-                            Let's see our Recent & popular <br> completed projects
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="project-items-area">
-                <div class="row">
+            <div class="about-items choseus-items right-thumb">
+                <div class="row align-center">
                     <div class="col-lg-12">
-                        <div class="gallery-content">
-                            <div class="mix-item-menu text-center">
-                                <button class="active" data-filter="*">All</button>
-                                <button data-filter=".development">Visualisation</button>
-                                <button data-filter=".consulting">Processing</button>
-                                <button data-filter=".finance">Analysis</button>
-                                <button data-filter=".branding">Branding</button>
-                                <button data-filter=".capital">Vocal</button>
-                            </div>
-                            <!-- End Mixitup Nav-->
-
-                            <div class="magnific-mix-gallery masonary">
-                                <div id="portfolio-grid" class="gallery-items projects-items colums-3">
-                                    <!-- Single Item -->
-                                    <div class="pf-item development capital">
-                                        <div class="single-item">
-                                            <div class="thumb item-effect">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
-                                                <div class="effect-info">
-                                                    <a href="assets/img/800x600.png" class="item popup-link">
-                                                        <i class="fas fa-camera"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="info">
-                                                <h5>
-                                                    <a href="#">Analysis Competitors</a>
-                                                </h5>
-                                                <ul>
-                                                    <li>Data</li>
-                                                    <li>Clicks</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Item -->
-                                    <!-- Single Item -->
-                                    <div class="pf-item consulting branding">
-                                        <div class="single-item">
-                                            <div class="thumb item-effect">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
-                                                <div class="effect-info">
-                                                    <a href="https://www.youtube.com/watch?v=owhuBrGIOsE"
-                                                        class="popup-youtube">
-                                                        <i class="fas fa-video"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="info">
-                                                <h5>
-                                                    <a href="#">Workload Automation</a>
-                                                </h5>
-                                                <ul>
-                                                    <li>Testing</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Item -->
-                                    <!-- Single Item -->
-                                    <div class="pf-item consulting finance">
-                                        <div class="single-item">
-                                            <div class="thumb item-effect">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
-                                                <div class="effect-info">
-                                                    <a href="assets/img/800x600.png" class="item popup-link">
-                                                        <i class="fas fa-camera"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="info">
-                                                <h5>
-                                                    <a href="#">File Transfers</a>
-                                                </h5>
-                                                <ul>
-                                                    <li>Monitor</li>
-                                                    <li>Science</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Item -->
-                                    <!-- Single Item -->
-                                    <div class="pf-item finance">
-                                        <div class="single-item">
-                                            <div class="thumb item-effect">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
-                                                <div class="effect-info">
-                                                    <a href="assets/img/800x600.png" class="item popup-link">
-                                                        <i class="fas fa-camera"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="info">
-                                                <h5>
-                                                    <a href="#">ChatBots Creation</a>
-                                                </h5>
-                                                <ul>
-                                                    <li>Algorithm</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Item -->
-                                    <!-- Single Item -->
-                                    <div class="pf-item capital development">
-                                        <div class="single-item">
-                                            <div class="thumb item-effect">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
-                                                <div class="effect-info">
-                                                    <a href="https://www.youtube.com/watch?v=owhuBrGIOsE"
-                                                        class="popup-youtube">
-                                                        <i class="fas fa-video"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="info">
-                                                <h5>
-                                                    <a href="#">Invoice data</a>
-                                                </h5>
-                                                <ul>
-                                                    <li>Analysis</li>
-                                                    <li>Data</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- End Single Item -->
-                                    <!-- Single Item -->
-                                    <div class="pf-item consulting branding">
-                                        <div class="single-item">
-                                            <div class="thumb item-effect">
-                                                <img src="assets/img/800x600.png" alt="Thumb">
-                                                <div class="effect-info">
-                                                    <a href="assets/img/800x600.png" class="item popup-link">
-                                                        <i class="fas fa-camera"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="info">
-                                                <h5>
-                                                    <a href="#">ChatBots Creation</a>
-                                                </h5>
-                                                <ul>
-                                                    <li>Algorithm</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Single Item -->
-                                </div>
-                            </div>
+                        <div class="site-heading text-center">
+                            <h3 style="color: #00215B;">
+                                <span class="font-Novbold">Salesforce for Success</span> fue el primer paso que diste
+                                para iniciar tu<br>
+                                carrera profesional en <span class="font-Novbold">Salesforce,</span> ahora es momento de
+                                continuar<br>
+                                con tu especialización en el ecosistema.
+                            </h3>
                         </div>
                     </div>
+                </div>
+                <div class="row align-center">
+                    <div class="col-lg-7">
+                        <div class="thumb wow fadeInUp" data-wow-delay="0.5s">
+                            <!-- <img src="assets/img/illustration/9.png" alt="Thumb"> -->
+                            <video class="video-trailer" controls
+                                poster="<?= base_url('assets/img/home/portadaVideo.png') ?>">
+                                <source src="<?= base_url('assets/video/PEDSTrailerV2.mp4') ?>" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
+                    <div class="col-lg-5">
+                        <div class="info wow fadeInLeft">
+                            <h2 class="font-Novbold text-center" style="color: #00215B;">¡No te quedes atrás!</h2>
+                            <h5 class="font-Novbold text-center" style="color: #00215B;">
+                                Ahora ya cuentas con estos conocimientos
+                            </h5>
+                            <ul>
+                                <li>
+                                    <span><i class="ti-check"></i> Exploración de las nubes de<br> Salesforce y sus
+                                        diferentes usos.</span>
+                                </li>
+                                <li>
+                                    <span><i class="ti-check"></i> Conocimiento de la visión 360 y <br>la cualidad
+                                        Omnichannel.</span>
+                                </li>
+                                <li>
+                                    <span><i class="ti-check"></i> Valor que aporta Salesforce a<br> las
+                                        industrias.</span>
+                                </li>
+                                <li>
+                                    <span><i class="ti-check"></i> Valor que aporta Salesforce a<br> las
+                                        industrias.</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
     </div>
-    <!-- End Projects -->
+    <!-- End Our About -->
 
-    <!-- Start Our Team 
+    <!-- Start Tabs
     ============================================= -->
-    <div class="our-team-area default-padding bottom-less">
+    <div class="tabs-area default-padding-bottom text-center bg-blue-light">
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h4>Team Members</h4>
-                        <h2>
-                            Meet our experts
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="team-items text-center">
-                <div class="row">
-                    <!-- Single Item -->
-                    <div class="single-item col-lg-4 col-md-6">
-                        <div class="item">
-                            <div class="thumb">
-                                <img src="assets/img/800x800.png" alt="Thumb">
-                                <div class="social">
-                                    <ul>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fab fa-youtube"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="info">
-                                <h4>Jonathom Dan</h4>
-                                <span>Project Manager</span>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="single-item col-lg-4 col-md-6">
-                        <div class="item">
-                            <div class="thumb">
-                                <img src="assets/img/800x800.png" alt="Thumb">
-                                <div class="social">
-                                    <ul>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fab fa-youtube"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="info">
-                                <h4>Munia Ankor</h4>
-                                <span>Co-Founder</span>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="single-item col-lg-4 col-md-6">
-                        <div class="item">
-                            <div class="thumb">
-                                <img src="assets/img/800x800.png" alt="Thumb">
-                                <div class="social">
-                                    <ul>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fab fa-facebook-f"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fab fa-youtube"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fab fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="info">
-                                <h4>Jonathom Dan</h4>
-                                <span>Project Manager</span>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Our Team -->
-
-    <!-- Start Blog Area
-    ============================================= -->
-    <div class="blog-area default-padding bg-gray bottom-less">
-        <div class="container">
-            <div class="heading-left">
-                <div class="row">
-                    <div class="col-lg-5">
-                        <h2>
-                            Stay Update with Anada from latest & popular News
-                        </h2>
-                    </div>
-                    <div class="col-lg-6 offset-lg-1">
-                        <p>
-                            Everything melancholy uncommonly but solicitude inhabiting projection off. Connection
-                            stimulated estimating excellence an to impression.
-                        </p>
-                        <a class="btn circle btn-md btn-gradient wow fadeInUp" href="#">View All <i
-                                class="fas fa-plus"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="blog-items">
-                <div class="row">
-                    <!-- Single Item -->
-                    <div class="col-lg-4 col-md-6 single-item">
-                        <div class="item">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/800x600.png" alt="Thumb">
-                                    <div class="date">
-                                        18 Jul <strong>2020</strong>
-                                    </div>
+                <div class="col-lg-12">
+                    <div class="center-tabs">
+                        <ul id="tabs" class="nav nav-tabs">
+                            <li class="nav-item">
+                                <a href="" data-target="#tabSA" data-toggle="tab" class="active nav-link">
+                                    Salesforce Administrator
                                 </a>
-                            </div>
-                            <div class="info">
-                                <div class="meta">
-                                    <ul>
-                                        <li>
-                                            <i class="fas fa-folder-open"></i>
-                                        </li>
-                                        <li>
-                                            <a href="#">Process</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Store</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <h4>
-                                    <a href="#">Analysis rendered entir Highly indeed to garden</a>
-                                </h4>
-                                <a class="btn-simple" href="#"><i class="fas fa-angle-right"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="col-lg-4 col-md-6 single-item">
-                        <div class="item">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/800x600.png" alt="Thumb">
-                                    <div class="date">
-                                        05 Aug <strong>2020</strong>
-                                    </div>
+                            </li>
+                            <li class="nav-item">
+                                <a href="" data-target="#tabSBA" data-toggle="tab" class="nav-link">
+                                    Salesforce Business Analyst
                                 </a>
-                            </div>
-                            <div class="info">
-                                <div class="meta">
-                                    <ul>
-                                        <li>
-                                            <i class="fas fa-folder-open"></i>
-                                        </li>
-                                        <li>
-                                            <a href="#">Data</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Analysis</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <h4>
-                                    <a href="#">Lasted am so before on esteem vanity oh. </a>
-                                </h4>
-                                <a class="btn-simple" href="#"><i class="fas fa-angle-right"></i> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single Item -->
-                    <!-- Single Item -->
-                    <div class="col-lg-4 col-md-6 single-item">
-                        <div class="item">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/800x600.png" alt="Thumb">
-                                    <div class="date">
-                                        27 Dec <strong>2020</strong>
-                                    </div>
+                            </li>
+                            <li class="nav-item">
+                                <a href="" data-target="#tabSD" data-toggle="tab" class="nav-link">
+                                    Salesforce Developer
                                 </a>
-                            </div>
-                            <div class="info">
-                                <div class="meta">
-                                    <ul>
-                                        <li>
-                                            <i class="fas fa-folder-open"></i>
-                                        </li>
-                                        <li>
-                                            <a href="#">Atrificial</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Data</a>
-                                        </li>
-                                    </ul>
+                            </li>
+                        </ul>
+                        <div id="tabsContent" class="tab-content wow fadeInUp" data-wow-delay="0.5s">
+                            <div id="tabSA" class="tab-pane fade active show">
+                                <div class="row align-center">
+                                    <div class="col-lg-6 col-md-12 info">
+                                        <ul>
+                                            <li>
+                                                <p class="text-justify">
+                                                    <span class="font-Novbold" style="color: #25C7D9;">El Administrador
+                                                        de Salesforce</span>
+                                                    es un experto en darle vida a la innovación tecnológica
+                                                    de las herramientas de Salesforce. Asume su rol, en el alto impacto
+                                                    de la automatización de procesos comerciales complejos, eficientando
+                                                    los tiempos de servicio al cliente, a través de los diversos usos de
+                                                    la plataforma.
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p class="text-justify">
+                                                    Gestiona a los usuarios y brinda vistas personalizadas
+                                                    por medio de tableros y reportes para <span class="font-Novbold"
+                                                        style="color: #25C7D9;">optimizar
+                                                        los procesos internos de la compañía.</span>
+                                                </p>
+                                            </li>
+                                        </ul>
+                                        <a class="btn-simple btn-sm wow fadeInUp " data-wow-duration="1.8s" href="#"
+                                            style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;"><i
+                                                class="fas fa-angle-right"></i> Ver curso</a>
+                                    </div>
+                                    <div class="video-tarjeta col-lg-6 col-md-12 thumb">
+                                        <div class="pf-item consulting branding">
+                                            <div class="single-item">
+                                                <div class="thumb item-effect">
+                                                    <img src="assets/img/800x600.png" alt="Thumb">
+                                                    <div class="effect-info">
+                                                        <a href="https://www.youtube.com/watch?v=owhuBrGIOsE"
+                                                            class="popup-youtube">
+                                                            <i class="fas fa-video"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="info">
+                                                    <h5>
+                                                        <a href="#">Fecha de inicio: 12 Septiembre 2022</a>
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <h4>
-                                    <a href="#">Repeated of endeavor mr position kindness.</a>
-                                </h4>
-                                <a class="btn-simple" href="#"><i class="fas fa-angle-right"></i> Read More</a>
+                            </div>
+                            <div id="tabSBA" class="tab-pane fade">
+                                <div class="row align-center">
+                                    <div class="col-lg-6 col-md-12 info">
+                                        <ul>
+                                            <li>
+                                                <p class="text-justify">
+                                                    <span class="font-Novbold" style="color: #25C7D9;">El Administrador
+                                                        de Salesforce</span>
+                                                    es un experto en darle vida a la innovación tecnológica
+                                                    de las herramientas de Salesforce. Asume su rol, en el alto impacto
+                                                    de la automatización de procesos comerciales complejos, eficientando
+                                                    los tiempos de servicio al cliente, a través de los diversos usos de
+                                                    la plataforma.
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p class="text-justify">
+                                                    Gestiona a los usuarios y brinda vistas personalizadas
+                                                    por medio de tableros y reportes para <span class="font-Novbold"
+                                                        style="color: #25C7D9;">optimizar
+                                                        los procesos internos de la compañía.</span>
+                                                </p>
+                                            </li>
+                                        </ul>
+                                        <a class="btn-simple btn-sm wow fadeInUp " data-wow-duration="1.8s" href="#"
+                                            style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;"><i
+                                                class="fas fa-angle-right"></i> Ver curso</a>
+                                    </div>
+                                    <div class="video-tarjeta col-lg-6 col-md-12 thumb">
+                                        <div class="pf-item consulting branding">
+                                            <div class="single-item">
+                                                <div class="thumb item-effect">
+                                                    <img src="assets/img/800x600.png" alt="Thumb">
+                                                    <div class="effect-info">
+                                                        <a href="https://www.youtube.com/watch?v=owhuBrGIOsE"
+                                                            class="popup-youtube">
+                                                            <i class="fas fa-video"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="info">
+                                                    <h5>
+                                                        <a href="#">Fecha de inicio: 12 Septiembre 2022</a>
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="tabSD" class="tab-pane fade">
+                                <div class="row align-center">
+                                    <div class="col-lg-6 col-md-12 info">
+                                        <ul>
+                                            <li>
+                                                <p class="text-justify">
+                                                    <span class="font-Novbold" style="color: #25C7D9;">El Administrador
+                                                        de Salesforce</span>
+                                                    es un experto en darle vida a la innovación tecnológica
+                                                    de las herramientas de Salesforce. Asume su rol, en el alto impacto
+                                                    de la automatización de procesos comerciales complejos, eficientando
+                                                    los tiempos de servicio al cliente, a través de los diversos usos de
+                                                    la plataforma.
+                                                </p>
+                                            </li>
+                                            <li>
+                                                <p class="text-justify">
+                                                    Gestiona a los usuarios y brinda vistas personalizadas
+                                                    por medio de tableros y reportes para <span class="font-Novbold"
+                                                        style="color: #25C7D9;">optimizar
+                                                        los procesos internos de la compañía.</span>
+                                                </p>
+                                            </li>
+                                        </ul>
+                                        <a class="btn-simple btn-sm wow fadeInUp " data-wow-duration="1.8s" href="#"
+                                            style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;"><i
+                                                class="fas fa-angle-right"></i> Ver curso</a>
+                                    </div>
+                                    <div class="video-tarjeta col-lg-6 col-md-12 thumb">
+                                        <div class="pf-item consulting branding">
+                                            <div class="single-item">
+                                                <div class="thumb item-effect">
+                                                    <img src="assets/img/800x600.png" alt="Thumb">
+                                                    <div class="effect-info">
+                                                        <a href="https://www.youtube.com/watch?v=owhuBrGIOsE"
+                                                            class="popup-youtube">
+                                                            <i class="fas fa-video"></i>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="info">
+                                                    <h5>
+                                                        <a href="#">Fecha de inicio: 12 Septiembre 2022</a>
+                                                    </h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- End Single Item -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Blog Area -->
-
-    <!-- Start Contact Area
-    ============================================= -->
-    <div class="contact-area default-padding">
-        <div class="container">
-            <div class="contact-items">
-                <div class="row">
-                    <div class="col-lg-4 left-item">
-                        <div class="info-items">
-                            <!-- Single Item -->
-                            <div class="item">
-                                <div class="icon">
-                                    <i class="fas fa-map-marked-alt"></i>
-                                </div>
-                                <div class="info">
-                                    <h5>Location</h5>
-                                    <p>
-                                        22 Baker Street, London, United Kingdom, W1U 3BW
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="item">
-                                <div class="icon">
-                                    <i class="fas fa-phone"></i>
-                                </div>
-                                <div class="info">
-                                    <h5>Make a Call</h5>
-                                    <p>
-                                        +44-20-7328-4499
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- End Single Item -->
-                            <!-- Single Item -->
-                            <div class="item">
-                                <div class="icon">
-                                    <i class="fas fa-envelope-open"></i>
-                                </div>
-                                <div class="info">
-                                    <h5>Send a Mail</h5>
-                                    <p>
-                                        info@yourdomain.com
-                                    </p>
-                                </div>
-                            </div>
-                            <!-- End Single Item -->
-                        </div>
-                    </div>
-                    <div class="col-lg-8 right-item">
-                        <h2>We’d love to hear from you anytime</h2>
-                        <form action="assets/mail/contact.php" method="POST" class="contact-form">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group">
-                                        <input class="form-control" id="name" name="name" placeholder="Name"
-                                            type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="email" name="email" placeholder="Email*"
-                                            type="email">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="phone" name="phone" placeholder="Phone"
-                                            type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="form-group comments">
-                                        <textarea class="form-control" id="comments" name="comments"
-                                            placeholder="Tell Us About Project *"></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <button type="submit" name="submit" id="submit">
-                                        Send Message <i class="fa fa-paper-plane"></i>
-                                    </button>
-                                </div>
-                            </div>
-                            <!-- Alert Message -->
-                            <div class="col-lg-12 alert-notification">
-                                <div id="message" class="alert-msg"></div>
-                            </div>
-                        </form>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- End Contact -->
+    <!-- End Tabs -->
 
     <!-- Star Footer
     ============================================= -->

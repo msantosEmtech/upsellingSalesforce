@@ -875,7 +875,7 @@ a.btn-simple.md.light:hover {
 }
 
 .btn-simple:after {
-  background: linear-gradient(90deg, rgba(67,126,235,1) 0%, rgba(30,85,189,1) 100%);
+  background: linear-gradient(90deg, rgba(242, 124, 33, 1) 0%, rgba(207, 128, 66,1) 100%);
   color: #ffffff;
   border-color: transparent;
   position: absolute;
@@ -1241,15 +1241,28 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 .rectangular-shape::after {
   position: absolute;
   right: 0;
+  top:560px;
   bottom: 50px;
   content: "";
-  height: 600px;
-  width: 600px;
-  background: #437eeb;
-  z-index: -1;
+  height: 117px;
+  width: 80px;
+  /* background: #437eeb; */
+  /* z-index: -1;
   opacity: 0.08;
   clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
-  transform: rotate(90deg);
+  transform: rotate(90deg); */
+  background-image: url(../img/home/puntosAzules2.png);
+}
+
+.rectangular-shape::before {
+  position: absolute;
+    left: 0;
+    top: 560px;
+    bottom: 50px;
+    content: "";
+    width: 80px;
+    height: 117px;
+    background-image: url(../img/home/puntosAzules2.png);
 }
 
 .rectangular-shape.shape-margin-right::after {
@@ -2651,7 +2664,8 @@ body,
   padding: 10px 25px;
   position: relative;
   z-index: 1;
-  color: #666666;
+  color: #00215B;
+  font-weight: 500;
 }
 
 .center-tabs .nav-tabs li a:hover,
@@ -2660,8 +2674,15 @@ body,
 }
 
 .center-tabs .nav-tabs li a.active {
-  background: linear-gradient(90deg, rgba(30,85,189,1) 0%, rgba(67,126,235,1) 100%);
-  color: #ffffff;
+  /* background: linear-gradient(90deg, rgba(30,85,189,1) 0%, rgba(67,126,235,1) 100%);
+  color: #ffffff; */
+
+  background: #E8E9EB;
+  box-shadow: 0px 2px 2px #ECEBEB;
+  border-radius: 10px;
+  color: #00215B;
+  font-family: 'proxima-nova-bold' !important;
+  border-bottom: 3px solid #25C7D9;
 }
 
 .center-tabs .nav-tabs li a.active::after {
@@ -2671,7 +2692,7 @@ body,
   content: "";
   height: 15px;
   width: 1px;
-  background: #437eeb;
+  background: #25C7D9;
 }
 
 .center-tabs .nav-tabs li a.active::before {
@@ -2681,9 +2702,10 @@ body,
   content: "";
   height: 10px;
   width: 10px;
-  border: 2px solid #437eeb;
+  border: 2px solid #25C7D9;
   margin-left: -5px;
   border-radius: 50%;
+  background-color: #25C7D9;
 }
 
 .about-area .center-tabs {
@@ -2693,7 +2715,7 @@ body,
 .center-tabs .tab-content {
   padding: 50px;
   background: #ffffff;
-  border-top: 3px solid #437eeb;
+  border-top: 3px solid #25C7D9;
   box-shadow: 0 5px 30px 0 rgba(214, 215, 216, 0.57);
 }
 
@@ -7179,4 +7201,22 @@ body.dark-layout .works-process-items .item .icon i {
 
 .works-process-items .item-custom {
   padding: 0 0px;
+}
+
+.video-trailer{
+  width: 80%;
+  height: auto;
+}
+
+.video-tarjeta .single-item {
+  box-shadow: 0 0 10px #cccccc;
+  background: #ffffff;
+}
+
+.video-tarjeta .item-effect {
+  background: -webkit-linear-gradient(-45deg, #000 0%,#fff 100%);
+  background: linear-gradient(-45deg, #000 0%,#fff 100%);
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
 }
