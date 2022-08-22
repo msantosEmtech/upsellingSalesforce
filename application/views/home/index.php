@@ -84,9 +84,9 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programs</a>
                             <ul class="dropdown-menu">
-                                <li><a href="<?= base_url('') ?>">Salesforce admin</a></li>
-                                <li><a href="<?= base_url('') ?>">Salesforce Analyst</a></li>
-                                <li><a href="<?= base_url('') ?>">Salesforce Developer</a></li>
+                                <li><a href="<?= base_url('SalesforceAdministrator') ?>">Salesforce admin</a></li>
+                                <li><a href="<?= base_url('SalesforceAdministrator') ?>">Salesforce Analyst</a></li>
+                                <li><a href="<?= base_url('SalesforceAdministrator') ?>">Salesforce Developer</a></li>
                             </ul>
                         </li>
                         <li>
