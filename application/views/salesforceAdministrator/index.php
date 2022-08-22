@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="<?= base_url('assets/course/css/vendor.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/course/css/style.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/course/css/responsive.css') ?>">
+    <link href="<?= base_url('assets/css/animate.css') ?>" rel="stylesheet" />
     <link href="<?= base_url('assets/css/bootsnav.css') ?>" rel="stylesheet">
 
     <script src="https://kit.fontawesome.com/0b7e7939a5.js" crossorigin="anonymous"></script>
@@ -232,7 +233,7 @@
                                     <img style="width:2rem;display:inline-block" src="<?= base_url('assets/course/img/icon-carrusel.svg') ?>">
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <p class="font-Novbold">
                                         Preparación integral para obtener la certificación como Salesforce Administrator.
                                     </p>
                                 </div>                                
@@ -247,7 +248,7 @@
                                     <img style="width:2rem;display:inline-block" src="<?= base_url('assets/course/img/icon-carrusel.svg') ?>">
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <p class="font-Novbold">
                                         Exploración y resolución de casos con App Exchange, Mobile App y Chatter.
                                     </p>
                                 </div>                                
@@ -261,7 +262,7 @@
                                     <img style="width:2rem;display:inline-block" src="<?= base_url('assets/course/img/icon-carrusel.svg') ?>">
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <p class="font-Novbold">
                                         Automatización de procesos con el uso de herramientas como Process Builder y Flow Builder.
                                     </p>
                                 </div>                                
@@ -275,7 +276,7 @@
                                     <img style="width:2rem;display:inline-block" src="<?= base_url('assets/course/img/icon-carrusel.svg') ?>">
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <p class="font-Novbold">
                                         Optimizar los procesos de ventas.
                                     </p>
                                 </div>                                
@@ -289,7 +290,7 @@
                                     <img style="width:2rem;display:inline-block" src="<?= base_url('assets/course/img/icon-carrusel.svg') ?>">
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <p class="font-Novbold">
                                         Creación de reportes y tableros interactivos.
                                     </p>
                                 </div>                                
@@ -303,7 +304,7 @@
                                     <img style="width:2rem;display:inline-block" src="<?= base_url('assets/course/img/icon-carrusel.svg') ?>">
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <p class="font-Novbold">
                                         Manejo de datos y reglas de validación.
                                     </p>
                                 </div>                                
@@ -317,7 +318,7 @@
                                     <img style="width:2rem;display:inline-block" src="<?= base_url('assets/course/img/icon-carrusel.svg') ?>">
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <p class="font-Novbold">
                                         Usos potenciales de Lightning App Builder.
                                     </p>
                                 </div>                                
@@ -331,7 +332,7 @@
                                     <img style="width:2rem;display:inline-block" src="<?= base_url('assets/course/img/icon-carrusel.svg') ?>">
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <p class="font-Novbold">
                                         Personalización de objetos, campos y páginas con Lightning Experience.
                                     </p>
                                 </div>                                
@@ -345,7 +346,7 @@
                                     <img style="width:2rem;display:inline-block" src="<?= base_url('assets/course/img/icon-carrusel.svg') ?>">
                                 </div>
                                 <div class="col-12">
-                                    <p>
+                                    <p class="font-Novbold">
                                         Mantenimiento de usuarios y opciones de seguridad.
                                     </p>
                                 </div>                                
@@ -611,7 +612,7 @@
                                                                     <img src="<?= base_url('assets/course/img/dates-icon.svg') ?>" style="width:3.5rem">
                                                                 </div>
                                                                 <div class="col-md-8 pl-0 curso-nombre my-auto">
-                                                                    <p style="line-height:22px;margin-bottom:0px"><b>Salesforce Admin<br> Próximamente</b></p>
+                                                                    <h6 class="font-Novbold" style="line-height:22px;margin-bottom:0px;color:#333333"><b>Salesforce Admin<br> <span class="font-Novbold color-sf">Próximamente</span></b></h6>
                                                                 </div>                                           
                                                             </div>
                                                         </div>
