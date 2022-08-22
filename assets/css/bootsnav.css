@@ -236,7 +236,7 @@
     background: linear-gradient(90deg, rgba(30,85,189,1) 0%, rgba(67,126,235,1) 100%);
     color: #ffffff;
     font-size: 13px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     padding: 10px 30px !important;
     border-radius: 30px;
 }
@@ -368,7 +368,7 @@ nav.bootsnav .megamenu-content .title {
   color: #333333;
   font-weight: 600;
   margin-top: 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   margin-bottom: 10px;
   font-size: 14px;
 }
@@ -416,7 +416,7 @@ nav.bootsnav .dropdown.megamenu-fw .dropdown-menu {
   font-family: 'Nunito', sans-serif;
   font-weight: 900;
   line-height: 20px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-size: 14px;
   width: 100%;
   margin-bottom: 5px;
@@ -433,7 +433,7 @@ nav.navbar .quote-btn a {
   font-size: 12px;
   font-weight: 600;
   border: 2px solid #437eeb;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   top: -2px;
   letter-spacing: 0.6px;
 }
@@ -507,7 +507,7 @@ nav.bg-dark.navbar.bootsnav {
 nav.navbar.bootsnav ul.nav > li > a {
   color: #333333;
   background-color: transparent !important;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 800;
   font-size: 14px;
 }
@@ -648,7 +648,7 @@ nav.bootsnav.navbar-full .navbar-collapse ul.nav > li {
 nav.bootsnav.navbar-full .navbar-collapse ul.nav > li > a {
   display: table;
   margin: auto;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: bold;
   letter-spacing: normal;
   font-size: 14px;
@@ -1080,7 +1080,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   font-weight: 600;
   margin-bottom: 10px;
   padding-bottom: 10px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .navbar .side .widget.opening-hours li:last-child {
@@ -1149,7 +1149,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   display: block;
   float: none;
   font-weight: 600;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .navbar .side .address li .info {
@@ -1194,7 +1194,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   font-weight: bold;
   letter-spacing: 1px;
   padding: 5px 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .color-yellow .side .widget ul.link li a {
@@ -1400,10 +1400,10 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li > a {
-    font-size: 13px;
+    font-size: 15px;
     letter-spacing: 0.06em;
     padding: 35px 15px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
   }
 
   nav.navbar.bootsnav ul.nav > li > a.active {
@@ -1426,7 +1426,7 @@ nav.navbar.bootsnav {
     content: "";
     height: 0px;
     width: 80%;
-    border-bottom: 3px solid #437eeb;
+    border-bottom: 3px solid #25C7D9;
   }
 
   nav.navbar.bootsnav.small-pad ul.nav > li > a {
@@ -1454,7 +1454,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li.active > a {
-    color: #437eeb;
+    color: #25C7D9;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav > li.active > a {
@@ -1467,7 +1467,7 @@ nav.navbar.bootsnav {
 
   nav.navbar.bootsnav.active-full ul.nav > li > a.active,
     nav.navbar.bootsnav.active-full ul.nav > li > a:hover {
-    background: #437eeb none repeat scroll 0 0 !important;
+    background: #25C7D9 none repeat scroll 0 0 !important;
     color: #ffffff;
   }
 
@@ -1481,7 +1481,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li > a:hover {
-    color: #437eeb;
+    color: #25C7D9;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav > li > a:hover {
@@ -1493,7 +1493,7 @@ nav.navbar.bootsnav {
   }
 
   nav.op-nav.bootsnav ul.nav.navbar-nav li a {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
   }
 
   .social-links.sl-default a {
@@ -1542,7 +1542,7 @@ nav.navbar.bootsnav {
     color: #333333;
     font-weight: 600;
     font-size: 12px;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
   }
 
   nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li:last-child > a {
@@ -1561,7 +1561,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.navbar-right li.dropdown ul.dropdown-menu li a:hover {
-    color: #437eeb;
+    color: #25C7D9;
   }
 
   nav.navbar.bootsnav.color-yellow ul.navbar-right li.dropdown ul.dropdown-menu li a:hover {
@@ -1569,7 +1569,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.navbar-left li.dropdown ul.dropdown-menu li a:hover {
-    color: #437eeb;
+    color: #25C7D9;
   }
 
   nav.navbar.bootsnav.color-yellow ul.navbar-left li.dropdown ul.dropdown-menu li a:hover {
@@ -2037,7 +2037,7 @@ nav.navbar.bootsnav {
     margin-bottom: 0;
     cursor: pointer;
     color: #333333;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
   }
 
   nav.bootsnav.navbar-sidebar .dropdown .megamenu-content .col-menu .title:before {
@@ -2437,7 +2437,7 @@ nav.navbar.bootsnav {
     color: #333333;
     font-size: 14px;
     font-weight: 600;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
   }
 
   nav.navbar.bootsnav .dropdown .megamenu-content .col-menu ul > li > a {
@@ -2813,7 +2813,7 @@ nav.navbar-transparent .attr-nav > ul > li.contact i {
 .attr-nav.menu li a {
   font-size: 14px;
   font-weight: 600;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .attr-nav.menu li {
@@ -3234,7 +3234,7 @@ body.wrap-nav-sidebar {
 .attr-nav.button li a {
   padding: 4px 20px !important;
   margin-left: 7px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-size: 13px;
   letter-spacing: 0.06em;
   color: #232323;
