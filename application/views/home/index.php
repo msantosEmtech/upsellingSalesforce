@@ -129,7 +129,7 @@
     <!-- End Banner -->
     <!-- Star About Area
     ============================================= -->
-    <div class="pt-5 about-area shape-left bg-blue-light relative">
+    <div class="pt-5 about-area shape-left bg-blue-light relative" style="padding-bottom: 2rem;">
         <div class="container">
             <div class="items-box">
                 <div class="row">
@@ -230,7 +230,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="pt-3 row">
+                            <div class="pt-3 row text-center">
                                 <div class="col-lg-4 col-md-4 single-item">
                                     <img src="<?= base_url('assets/img/home/emtech-logo.png') ?>" alt="Logo">
                                 </div>
@@ -252,11 +252,11 @@
     ============================================= -->
     <div class="fun-factor-area bg-gray default-padding">
         <!-- Fixed BG -->
-        <div class="fixed-bg" style="background-image: url(<?= base_url('assets/img/home/bannerNumeros.png') ?>);">
+        <div class="fixed-bg" style="background-image: url(<?= base_url('assets/img/home/bannerNumeros.png') ?>);background-repeat: no-repeat;background-size: cover;">
         </div>
         <!-- Fixed BG -->
         <div class="container">
-            <div class="text-center client-items" style="padding-left: 5rem;">
+            <div class="text-center client-items divDesarrolloProfesional" style="padding-left: 5rem;">
                 <div class="row">
                     <h2 class="text-center font-Novbold" style="color:#ffff;position: relative">¿Por qué desarrollarte
                         profesionalmente en el
@@ -264,7 +264,7 @@
                         <span style="color: #25C7D9;">Salesforce?</span>
                     </h2>
                 </div>
-                <div class="row">
+                <div class="row rowIconosDesarrolloProfesional">
                     <div class="col-lg-4 col-md-6 item">
                         <ul>
                             <li style="float: left;width: 15%;">
@@ -437,7 +437,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row container rowVideo">
                     <div class="col-lg-7">
                         <div class="thumb wow fadeInUp" data-wow-delay="0.5s">
                             <video class="video-trailer" controls poster="<?= base_url('assets/img/home/portadaVideo.png') ?>" style="cursor: pointer;">
@@ -445,7 +445,7 @@
                             </video>
                         </div>
                     </div>
-                    <div class="col-lg-5">
+                    <div class="col-lg-5 columnaSliderVertical">
                         <div class="info wow fadeInLeft">
                             <h2 class="font-Novbold text-center" style="color: #00215B;">¡No te quedes atrás!</h2>
                             <h5 class="font-Novbold text-center" style="color: #00215B;">
@@ -556,7 +556,7 @@
                                     <div class="col-lg-6 col-md-12 info">
                                         <div class="row">
                                             <div class="col-lg-2" style="margin-right: -2rem;">
-                                                <img src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
+                                                <img class="palomaIntoTarjeta" src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
                                             </div>
                                             <div class="col-lg-10">
                                                 <p>
@@ -574,7 +574,7 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-lg-2" style="margin-right: -2rem;">
-                                                <img src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
+                                                <img class="palomaIntoTarjeta" src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
                                             </div>
                                             <div class="col-lg-10">
                                                 <p>
@@ -631,7 +631,7 @@
                                     <div class="col-lg-6 col-md-12 info">
                                         <div class="row">
                                             <div class="col-lg-2" style="margin-right: -2rem;">
-                                                <img src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
+                                                <img class="palomaIntoTarjeta" src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
                                             </div>
                                             <div class="col-lg-10">
                                                 <p>
@@ -643,7 +643,7 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-lg-2" style="margin-right: -2rem;">
-                                                <img src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
+                                                <img class="palomaIntoTarjeta" src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
                                             </div>
                                             <div class="col-lg-10">
                                                 <p>
@@ -656,7 +656,7 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-lg-2" style="margin-right: -2rem;">
-                                                <img src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
+                                                <img class="palomaIntoTarjeta" src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
                                             </div>
                                             <div class="col-lg-10">
                                                 <p>
@@ -713,7 +713,7 @@
                                     <div class="col-lg-6 col-md-12 info">
                                         <div class="row">
                                             <div class="col-lg-2" style="margin-right: -2rem;">
-                                                <img src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
+                                                <img class="palomaIntoTarjeta" src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
                                             </div>
                                             <div class="col-lg-10">
                                                 <p>
@@ -725,7 +725,7 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-lg-2" style="margin-right: -2rem;">
-                                                <img src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
+                                                <img class="palomaIntoTarjeta" src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
                                             </div>
                                             <div class="col-lg-10">
                                                 <p>
@@ -738,7 +738,7 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-lg-2" style="margin-right: -2rem;">
-                                                <img src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
+                                                <img class="palomaIntoTarjeta" src="<?= base_url('assets/img/home/palomita.png') ?>" style="width: 40%;">
                                             </div>
                                             <div class="col-lg-10">
                                                 <p>
@@ -803,15 +803,15 @@
                 <div class="row container">
                     <div class="col-lg-5 single-item text-left" style="padding-top: 10rem;">
                         <div class="pb-5 item-custom">
-                            <h2 class="font-Novbold" style="color: #00215B;text-align: left;">Caracteristas del<br>
+                            <h2 class="font-Novbold tituloBeneficiosh2" style="color: #00215B;text-align: left;">Caracteristas del<br>
                                 programa</h2>
-                            <h6 class="font-Novreg" style="color: #000000; text-align: left;">Enfoca tus habilidades y
+                            <h6 class="font-Novreg parrafoTituloBeneficios" style="color: #000000; text-align: left;">Enfoca tus habilidades y
                                 competencias<br>
                                 en la especialización de los cursos que<br>
                                 EmTech ofrece para tu certificación en<br>
                                 los career path más importantes del<br> ecosistema <span style="color: #25C7D9;">Salesforce.</span></h6>
                         </div>
-                        <a class="btn-simple btn-sm wow fadeInUp " data-wow-duration="1.8s" href="#" style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;">Ver
+                        <a class="btn-simple btn-sm wow fadeInUp btnVerCursoBeneficios" data-wow-duration="1.8s" href="#" style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;">Ver
                             cursos</a>
                     </div>
                     <div class="col-lg-7 single-item">
@@ -822,9 +822,9 @@
                                         <div class="card-body container text-left" style="padding: 12px;">
                                             <div class="row">
                                                 <div class="col-lg-3">
-                                                    <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100%;" src="<?= base_url('assets/img/home/iconoCasosPracticos.svg') ?>" alt="Icono" />
+                                                    <img class="pt-2 pb-3 mx-auto d-block imgIconosTarjetasDescuadradas" id="iconModulo1" style="cursor: pointer;width: 100%;" src="<?= base_url('assets/img/home/iconoCasosPracticos.svg') ?>" alt="Icono" />
                                                 </div>
-                                                <div class="col-lg-9 text-left" style="padding-left: 0px;">
+                                                <div class="col-lg-9 text-left tituloTarjetasDescuadradas" style="padding-left: 0px;">
                                                     <h5 class="font-Novbold" style="color: #00215B;padding-top: 1rem;">Casos Prácticos</h5>
                                                 </div>
                                             </div>
@@ -846,9 +846,9 @@
                                         <div class="card-body container text-left" style="padding: 12px;">
                                             <div class="row">
                                                 <div class="col-lg-3">
-                                                    <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100%;" src="<?= base_url('assets/img/home/iconoTutor.svg') ?>" alt="Icono" />
+                                                    <img class="pt-2 pb-3 mx-auto d-block imgIconosTarjetasDescuadradas" id="iconModulo1" style="cursor: pointer;width: 100%;" src="<?= base_url('assets/img/home/iconoTutor.svg') ?>" alt="Icono" />
                                                 </div>
-                                                <div class="col-lg-9 text-left" style="padding-left: 0px;">
+                                                <div class="col-lg-9 text-left tituloTarjetasDescuadradas" style="padding-left: 0px;">
                                                     <h5 class="font-Novbold" style="color: #00215B;padding-top: 1rem;">Acompañamiento</h5>
                                                 </div>
                                             </div>
@@ -871,9 +871,9 @@
                                     <div class="card-body container text-left" style="padding: 12px;">
                                         <div class="row">
                                             <div class="col-lg-3">
-                                                <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100%;" src="<?= base_url('assets/img/home/iconoContenidoAsincrono.svg') ?>" alt="Icono" />
+                                                <img class="pt-2 pb-3 mx-auto d-block imgIconosTarjetasDescuadradas" id="iconModulo1" style="cursor: pointer;width: 100%;" src="<?= base_url('assets/img/home/iconoContenidoAsincrono.svg') ?>" alt="Icono" />
                                             </div>
-                                            <div class="col-lg-9 text-left" style="padding-left: 0px;">
+                                            <div class="col-lg-9 text-left tituloTarjetasDescuadradas" style="padding-left: 0px;">
                                                 <h5 class="font-Novbold" style="color: #00215B;padding-top: 1rem;">Contenido Asíncrono</h5>
                                             </div>
                                         </div>
@@ -895,9 +895,9 @@
                                     <div class="card-body container text-left" style="padding: 12px;">
                                         <div class="row">
                                             <div class="col-lg-3">
-                                                <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100%;" src="<?= base_url('assets/img/home/iconoSesiones.svg') ?>" alt="Icono" />
+                                                <img class="pt-2 pb-3 mx-auto d-block imgIconosTarjetasDescuadradas" id="iconModulo1" style="cursor: pointer;width: 100%;" src="<?= base_url('assets/img/home/iconoSesiones.svg') ?>" alt="Icono" />
                                             </div>
-                                            <div class="col-lg-9 text-left" style="padding-left: 0px;">
+                                            <div class="col-lg-9 text-left tituloTarjetasDescuadradas" style="padding-left: 0px;">
                                                 <h5 class="font-Novbold" style="color: #00215B;padding-top: 1rem;">Sesiones Síncronas</h5>
                                             </div>
                                         </div>

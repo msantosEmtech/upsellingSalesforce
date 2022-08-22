@@ -7279,7 +7279,7 @@ ul.listaTab li{
 
 .seccion-beneficios::after {
   position: absolute;
-  left: 80%;
+  left: 75%;
   top: -5%;
   content: "";
   width: 90px;
@@ -7368,4 +7368,73 @@ img.imgAva{
     font-weight: 500;
     text-transform: uppercase;
     color: #696d74;
+}
+
+@media only screen and (max-width: 767px){
+  .divDesarrolloProfesional {
+      padding-left: 0px !important;
+  }
+  .rowIconosDesarrolloProfesional{
+    padding-left: 5rem !important;
+  }
+  ..slider-item{
+    width: 30px;
+  }
+  .rowVideo{
+    text-align: center;
+  }
+  .columnaSliderVertical{
+    padding-bottom: 25rem;
+  }
+  .rectangular-shape::after{
+    top: 33% !important;
+  }
+  .rectangular-shape::before{
+    top: 33% !important;
+  }
+  .slider-item{
+    width: 290px;
+  }
+  .palomaIntoTarjeta{
+    width: 9% !important;
+  }
+  .imgIconosTarjetasDescuadradas{
+    width: 30% !important;
+  }
+  .tituloTarjetasDescuadradas{
+    text-align: center !important;
+  }
+  .seccion-beneficios::after{
+    position: absolute;
+    left: 75%;
+    top: -2% !important;
+    content: "";
+    width: 50px !important;
+    height: 50px !important;
+    background-image: url(../img/home/puntosAzulesBeneficios.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .seccion-beneficios::before{
+    position: absolute;
+    left: 10%;
+    top: 96% !important;
+    bottom: 50px;
+    content: "";
+    width: 50px !important;
+    height: 50px !important;
+    background-image: url(../img/home/puntosAzulesBeneficios.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .tituloBeneficiosh2{
+    text-align: center !important;
+  }
+  .parrafoTituloBeneficios{
+    text-align: center !important;
+  }
+  .btnVerCursoBeneficios{
+    margin-left: 5rem !important;
+  }
 }
