@@ -325,9 +325,9 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h3 class="font-Novbold" style="color: #00215B;">
+                        <h2 class="font-Novbold" style="color: #00215B;">
                             Salesforce es más que el <span style="color:#25C7D9;">CRM #1 en el mundo</span>
-                        </h3>
+                        </h2>
                     </div>
                 </div>
             </div>
@@ -437,11 +437,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="row align-center">
+                <div class="row">
                     <div class="col-lg-7">
                         <div class="thumb wow fadeInUp" data-wow-delay="0.5s">
-                            <!-- <img src="assets/img/illustration/9.png" alt="Thumb"> -->
-                            <video class="video-trailer" controls poster="<?= base_url('assets/img/home/portadaVideo.png') ?>">
+                            <video class="video-trailer" controls poster="<?= base_url('assets/img/home/portadaVideo.png') ?>" style="cursor: pointer;">
                                 <source src="<?= base_url('assets/video/PEDSTrailerV2.mp4') ?>" type="video/mp4">
                             </video>
                         </div>
@@ -452,27 +451,60 @@
                             <h5 class="font-Novbold text-center" style="color: #00215B;">
                                 Ahora ya cuentas con estos conocimientos
                             </h5>
-                            <ul>
-                                <li>
-                                    <span><i class="ti-check"></i> Exploración de las nubes de<br> Salesforce y sus
-                                        diferentes usos.</span>
-                                </li>
-                                <li>
-                                    <span><i class="ti-check"></i> Conocimiento de la visión 360 y <br>la cualidad
-                                        Omnichannel.</span>
-                                </li>
-                                <li>
-                                    <span><i class="ti-check"></i> Valor que aporta Salesforce a<br> las
-                                        industrias.</span>
-                                </li>
-                                <li>
-                                    <span><i class="ti-check"></i> Valor que aporta Salesforce a<br> las
-                                        industrias.</span>
-                                </li>
-                            </ul>
+                        </div>
+                        <div class="slider-wrap">
+                            <div id="card-slider" class="slider">
+                                <div class="slider-item">
+                                    <div class="animation-card_image">
+                                        <img class="imgAva" src="<?= base_url('assets/img/home/iconoSliderVertical.png') ?>" alt="">
+                                    </div>
+                                    <div class="animation-card_content">
+                                        <p class="animation-card_content_description p-2">Oportunidad para impulsar su carrera profesional.</p>
+                                    </div>
+                                </div>
+                                <div class="slider-item">
+                                    <div class="animation-card_image">
+                                        <img class="imgAva" src="<?= base_url('assets/img/home/iconoSliderVertical.png') ?>" alt="">
+                                    </div>
+                                    <div class="animation-card_content">
+                                        <p class="animation-card_content_description p-2">Identificación de algunas de las herramientas de Salesforce.</p>
+                                    </div>
+                                </div>
+                                <div class="slider-item">
+                                    <div class="animation-card_image">
+                                        <img class="imgAva" src="<?= base_url('assets/img/home/iconoSliderVertical.png') ?>" alt="">
+                                    </div>
+                                    <div class="animation-card_content">
+                                        <p class="animation-card_content_description p-2">Exploración de las nubes de Salesforce y sus diferentes usos.</p>
+                                    </div>
+                                </div>
+                                <div class="slider-item">
+                                    <div class="animation-card_image">
+                                        <img class="imgAva" src="<?= base_url('assets/img/home/iconoSliderVertical.png') ?>" alt="">
+                                    </div>
+                                    <div class="animation-card_content">
+                                        <p class="animation-card_content_description p-2">Conocimiento de la visión 360 y la cualidad Omnichannel.</p>
+                                    </div>
+                                </div>
+                                <div class="slider-item">
+                                    <div class="animation-card_image">
+                                        <img class="imgAva" src="<?= base_url('assets/img/home/iconoSliderVertical.png') ?>" alt="">
+                                    </div>
+                                    <div class="animation-card_content">
+                                        <p class="animation-card_content_description p-2">Valor que aporta Salesforce a las industrias.</p>
+                                    </div>
+                                </div>
+                                <div class="slider-item">
+                                    <div class="animation-card_image">
+                                        <img class="imgAva" src="<?= base_url('assets/img/home/iconoSliderVertical.png') ?>" alt="">
+                                    </div>
+                                    <div class="animation-card_content">
+                                        <p class="animation-card_content_description p-2">Capacidad de Salesforce para ofrecer soluciones tecnológicas a problemas de negocio.</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
@@ -554,7 +586,7 @@
                                             </div>
                                         </div>
 
-                                        <a class="btn-simple btn-sm wow fadeInUp " data-wow-duration="1.8s" href="#" style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;"><i class="fas fa-angle-right"></i> Ver curso</a>
+                                        <a class="btn-simple btn-sm wow fadeInUp " data-wow-duration="1.8s" href="#" style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;">Ver curso</a>
                                     </div>
                                     <div class="video-tarjeta col-lg-6 col-md-12 thumb">
                                         <div id="portfolio" class="projects-area overflow-hidden">
@@ -636,7 +668,7 @@
                                             </div>
                                         </div>
 
-                                        <a class="btn-simple btn-sm wow fadeInUp " data-wow-duration="1.8s" href="#" style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;"><i class="fas fa-angle-right"></i> Ver curso</a>
+                                        <a class="btn-simple btn-sm wow fadeInUp " data-wow-duration="1.8s" href="#" style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;">Ver curso</a>
                                     </div>
                                     <div class="video-tarjeta col-lg-6 col-md-12 thumb">
                                         <div id="portfolio" class="projects-area overflow-hidden">
@@ -718,7 +750,7 @@
                                             </div>
                                         </div>
 
-                                        <a class="btn-simple btn-sm wow fadeInUp " data-wow-duration="1.8s" href="#" style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;"><i class="fas fa-angle-right"></i> Ver curso</a>
+                                        <a class="btn-simple btn-sm wow fadeInUp " data-wow-duration="1.8s" href="#" style="border-radius: 16px; background: #F27C21 none repeat scroll 0 0;border: 2px solid #F27C21;color: #FAFAFA;visibility: visible; animation-duration: 1.8s; animation-name: fadeInUp;">Ver curso</a>
                                     </div>
                                     <div class="video-tarjeta col-lg-6 col-md-12 thumb">
                                         <div id="portfolio" class="projects-area overflow-hidden">
@@ -771,8 +803,8 @@
                 <div class="row container">
                     <div class="col-lg-5 single-item text-left" style="padding-top: 10rem;">
                         <div class="pb-5 item-custom">
-                            <h3 class="font-Novbold" style="color: #00215B;text-align: left;">Caracteristas del<br>
-                                programa</h3>
+                            <h2 class="font-Novbold" style="color: #00215B;text-align: left;">Caracteristas del<br>
+                                programa</h2>
                             <h6 class="font-Novreg" style="color: #000000; text-align: left;">Enfoca tus habilidades y
                                 competencias<br>
                                 en la especialización de los cursos que<br>
@@ -953,7 +985,7 @@
 
     <!-- Start Fun Factor Area
     ============================================= -->
-    <div class="fun-factor-area bg-gray default-padding">
+    <div class="fun-factor-area bg-gray default-padding" style="padding-bottom: 6rem;padding-top: 7rem">
         <!-- Fixed BG -->
         <div class="fixed-bg" style="background-image: url(<?= base_url('assets/img/home/bannerNumeros.png') ?>);">
         </div>
@@ -1043,64 +1075,6 @@
             </div>
         </div>
     </div>
-    <!-- Start Our Features
-    ============================================= -->
-    <div class="our-features-area wavesshape-bottom carousel-shadow default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 info">
-                    <div class="feature-items feature-carousel owl-carousel owl-theme">
-                        <!-- Single Item -->
-                        <div class="item" style="width: 450px !important;height: 500px !important;margin-right: 1rem !important;">
-                            <div class="icon">
-                                <i class="flaticon-target"></i>
-                            </div>
-                            <h3>Traget your audience</h3>
-                            <p>
-                                Especially of dissimilar up attachment themselves by interested boisterous. Linen mrs seems men table. Jennings dashwood to quitting marriage bachelor in. On as conviction in of appearance apartments boisterous. 
-                            </p>
-                            <div class="bottom">
-                                <a class="btn-simple" href="#"><i class="fas fa-angle-right"></i> Get Started</a>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                        <!-- Single Item -->
-                        <div class="item" style="width: 450px;height: 500px;margin-right: 1rem;">
-                            <div class="icon">
-                                <i class="flaticon-competition"></i>
-                            </div>
-                            <h3>Analysis competitors</h3>
-                            <p>
-                                Especially of dissimilar up attachment themselves by interested boisterous. Linen mrs seems men table. Jennings dashwood to quitting marriage bachelor in. On as conviction in of appearance apartments boisterous. 
-                            </p>
-                            <div class="bottom">
-                                <a class="btn-simple" href="#"><i class="fas fa-angle-right"></i> Get Started</a>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                        <!-- Single Item -->
-                        <div class="item" style="width: 450px;height: 500px;margin-right: 1rem;">
-                            <div class="icon">
-                                <i class="flaticon-data"></i>
-                            </div>
-                            <h3>Analysis big Data</h3>
-                            <p>
-                                Especially of dissimilar up attachment themselves by interested boisterous. Linen mrs seems men table. Jennings dashwood to quitting marriage bachelor in. On as conviction in of appearance apartments boisterous. 
-                            </p>
-                            <div class="bottom">
-                                <a class="btn-simple" href="#"><i class="fas fa-angle-right"></i> Get Started</a>
-                            </div>
-                        </div>
-                        <!-- End Single Item -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="waveshape">
-            <img src="assets/img/shape/6.svg" alt="Shape">
-        </div>
-    </div>
-    <!-- End Features -->
     <!-- Star Footer
     ============================================= -->
     <footer class="bg-dark text-light">
@@ -1224,6 +1198,7 @@
     <script src="<?= base_url('assets/js/bootsnav.js') ?>"></script>
     <script src="<?= base_url('assets/js/main.js') ?>"></script>
     <script src="https://unpkg.com/counterup2@2.0.2/dist/index.js"></script>
+    <script src="<?= base_url('assets/js/TweenMax.js') ?>"></script>
     <script>
         const counterUp = window.counterUp.default
 
@@ -1250,6 +1225,90 @@
 
         const el3 = document.querySelector('#counter3')
         IO.observe(el3)
+
+
+        var cards = $('#card-slider .slider-item').toArray();
+
+        startAnim(cards);
+
+        function startAnim(array) {
+            if (array.length >= 4) {
+                TweenMax.fromTo(array[0], 0.5, {
+                    x: 0,
+                    y: 0,
+                    opacity: 0.75,
+                    backgroundColor: "unset"
+                }, {
+                    x: 0,
+                    y: -120,
+                    opacity: 0,
+                    zIndex: 0,
+                    delay: 0.03,
+                    ease: Cubic.easeInOut,
+                    onComplete: sortArray(array),
+                    backgroundColor: "unset"
+                });
+
+                TweenMax.fromTo(array[1], 0.5, {
+                    x: 79,
+                    y: 125,
+                    opacity: 1,
+                    zIndex: 1,
+                    backgroundColor: "unset"
+                }, {
+                    x: 0,
+                    y: 0,
+                    opacity: 0.75,
+                    zIndex: 0,
+                    boxShadow: '-5px 8px 8px 0 rgba(82,89,129,0.05)',
+                    ease: Cubic.easeInOut,
+                    backgroundColor: "unset"
+                });
+
+                TweenMax.to(array[2], 0.5, {
+                    bezier: [{
+                        x: 0,
+                        y: 250
+                    }, {
+                        x: 65,
+                        y: 200
+                    }, {
+                        x: 79,
+                        y: 125
+                    }],
+                    boxShadow: '-5px 8px 8px 0 rgba(82,89,129,0.05)',
+                    zIndex: 1,
+                    opacity: 1,
+                    ease: Cubic.easeInOut,
+                    backgroundColor: "#25C7D9",
+                    color: "#ffffff"
+                });
+
+                TweenMax.fromTo(array[3], 0.5, {
+                    x: 0,
+                    y: 400,
+                    opacity: 0,
+                    zIndex: 0
+                }, {
+                    x: 0,
+                    y: 250,
+                    opacity: 0.75,
+                    zIndex: 0,
+                    ease: Cubic.easeInOut
+                }, );
+            } else {
+                $('#card-slider').append('<p>Sorry, carousel should contain more than 3 slides</p>')
+            }
+        }
+
+        function sortArray(array) {
+            clearTimeout(delay);
+            var delay = setTimeout(function() {
+                var firstElem = array.shift();
+                array.push(firstElem);
+                return startAnim(array);
+            }, 3000)
+        }
     </script>
 </body>
 
