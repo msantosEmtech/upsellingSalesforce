@@ -66,7 +66,7 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                         <i class="fa fa-bars"></i>
                     </button>
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="<?= base_url('Home') ?>">
                         <img src="<?= base_url('assets/img/logo-emtech.png') ?>" class="logo logo-display" alt="Logo" style="width: 250px;">
                         <img src="<?= base_url('assets/img/logo-emtech2.png') ?>" class="logo logo-scrolled" alt="Logo" style="width: 180px;">
                     </a>
@@ -76,20 +76,21 @@
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
                         <li>
-                            <a href="contact.html">Inicio</a>
+                            <a href="<?= base_url('Home') ?>">Inicio</a>
                         </li>
                         <li>
-                            <a href="contact.html">About us</a>
+                            <a href="#aboutUs">About us</a>
                         </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programs</a>
                             <ul class="dropdown-menu">
-                                <li><a href="about-us.html">1</a></li>
-                                <li><a href="team.html">2</a></li>
+                                <li><a href="<?= base_url('') ?>">Salesforce admin</a></li>
+                                <li><a href="<?= base_url('') ?>">Salesforce Analyst</a></li>
+                                <li><a href="<?= base_url('') ?>">Salesforce Developer</a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="contact.html">Beneficios</a>
+                            <a href="#beneficios">Beneficios</a>
                         </li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
@@ -129,7 +130,7 @@
     <!-- End Banner -->
     <!-- Star About Area
     ============================================= -->
-    <div class="pt-5 about-area shape-left bg-blue-light relative" style="padding-bottom: 2rem;">
+    <div id="aboutUs" class="pt-5 about-area shape-left bg-blue-light relative" style="padding-bottom: 2rem;">
         <div class="container">
             <div class="items-box">
                 <div class="row">
@@ -924,7 +925,7 @@
     </div>
     <!-- Star About Area
     ============================================= -->
-    <div id="about" class="about-area default-padding bg-blue-light seccion-beneficios relative">
+    <div id="beneficios" class="about-area default-padding bg-blue-light seccion-beneficios relative">
         <div class="container">
             <div class="items-box">
                 <div class="row">

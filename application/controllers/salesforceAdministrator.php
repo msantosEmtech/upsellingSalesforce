@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 
-class salesforceAdministrator extends CI_Controller
+class SalesforceAdministrator extends CI_Controller
 {
 
     public function __construct()
